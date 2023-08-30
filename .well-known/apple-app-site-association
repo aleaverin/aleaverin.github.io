@@ -1,9 +1,8 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "2VVFV2ZDMV.com.belkatechnologies.clockmaker",
+        "appIDs": [ "2VVFV2ZDMV.com.belkatechnologies.clockmaker" ],
         "paths": [
           "*"
         ]
